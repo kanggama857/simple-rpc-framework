@@ -1,0 +1,6 @@
+# Project exclude paths
+/rpc-core/target/
+/rpc-interface/target/
+/rpc-provider/rpc-provider-demo/target/
+/rpc-spring-starter/target/
+/simple-rpc/target/

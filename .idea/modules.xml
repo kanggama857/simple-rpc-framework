@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rpc-consumer/rpc-consumer-demo/rpc-consumer-demo.iml" filepath="$PROJECT_DIR$/rpc-consumer/rpc-consumer-demo/rpc-consumer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-consumer/rpc-consumer-spring/rpc-consumer-spring.iml" filepath="$PROJECT_DIR$/rpc-consumer/rpc-consumer-spring/rpc-consumer-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-provider/rpc-provider-demo/rpc-provider-demo.iml" filepath="$PROJECT_DIR$/rpc-provider/rpc-provider-demo/rpc-provider-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-provider/rpc-provider-goods/rpc-provider-goods.iml" filepath="$PROJECT_DIR$/rpc-provider/rpc-provider-goods/rpc-provider-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-provider/rpc-provider-pay/rpc-provider-pay.iml" filepath="$PROJECT_DIR$/rpc-provider/rpc-provider-pay/rpc-provider-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-provider/rpc-provider-user/rpc-provider-user.iml" filepath="$PROJECT_DIR$/rpc-provider/rpc-provider-user/rpc-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-spring-starter/rpc-spring-starter.iml" filepath="$PROJECT_DIR$/rpc-spring-starter/rpc-spring-starter.iml" />
+    </modules>
+  </component>
+</project>
